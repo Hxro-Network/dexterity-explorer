@@ -1,0 +1,10 @@
+.Pubkey {
+    display: flex;
+    gap: .25rem;
+    cursor: pointer;
+    background: var(--b-btn-bg);
+    color: var(--b-btn-txt);
+    border-radius: .25rem;
+    padding: .25rem;
+    width: fit-content;
+}

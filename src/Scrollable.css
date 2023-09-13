@@ -1,0 +1,11 @@
+.Scrollable {
+    overflow: auto;
+    background: var(--b-btn-bg);
+    color: var(--b-btn-txt);
+    padding: .25rem;
+    min-height: 1.6rem;
+/*
+    max-width: 30rem;
+    height: 2rem;
+*/
+}

@@ -1,0 +1,32 @@
+.Book {
+    margin: .5rem auto;
+    display: grid;
+    gap: .5rem;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.BookMeta {
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: .5rem;
+    justify-content: center;
+    align-items: center;
+}
+.Ladder {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: .25rem;
+    justify-content: center;
+    align-items: center;
+    margin: .5rem auto;
+}
+.BookAsk {
+
+}
+.BookPrice {
+
+}
+.BookBid {
+
+}

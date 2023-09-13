@@ -1,0 +1,13 @@
+.Header {
+}
+.HeaderFirstRow {
+    background: var(--b-btn-bg);
+    color: var(--b-btn-txt);
+    font-size: 0.77rem;
+    text-align: center;
+}
+.HeaderSecondRow {
+    padding: .5rem;
+    display: flex;
+    gap: .5rem;
+}

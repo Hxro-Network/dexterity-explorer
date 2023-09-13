@@ -1,0 +1,9 @@
+.TRGBrowser {
+    padding: .5rem;
+    border-radius: .25rem;
+    background: var(--b-bg-2);
+}
+.TRGBrowserHeader {
+    display: flex;
+    justify-content: end;
+}

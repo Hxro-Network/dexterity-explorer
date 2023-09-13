@@ -1,0 +1,16 @@
+.MPG {
+    padding: 0.5rem;
+    width: fit-content;
+    display: grid;
+    gap: .5rem;
+    background: var(--b-bg-2);
+    border-radius: .25rem;
+    box-shadow: 2px 2px 5px 1px var(--b-bg-1);
+}
+.MPGGrid {
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 0.5rem;
+    width: fit-content;
+    align-items: center;
+}

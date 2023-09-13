@@ -1,0 +1,12 @@
+.TRGSelector {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    padding-bottom: .25rem;
+}
+.TRGSelector input {
+    border: solid 1px var(--b-bg-1);
+    background: var(--b-btn-bg);
+    color: var(--b-btn-txt);
+}

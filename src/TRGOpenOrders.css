@@ -1,0 +1,57 @@
+.TRGOpenOrders {
+    display: grid;
+    gap: .5rem;
+    margin-bottom: .5rem;
+}
+.TRGOpenOrdersTitle {
+    text-align: center;
+}
+.TRGOpenOrderProductsGrid {
+    display: grid;
+    gap: .5rem;
+    justify-content: center;
+    align-items: center;
+}
+.TRGOpenOrderProduct {
+    padding: .25rem;
+    display: grid;
+    gap: .5rem;
+    justify-content: center;
+    align-items: center;
+    border-radius: .25rem;
+    background: var(--b-bg-1);
+    border: solid 1px var(--b-bg-1);
+}
+.TRGOpenOrderProductGrid {
+    padding: .25rem;
+    display: grid;
+    gap: .5rem;
+    grid-template-columns: auto auto;
+    justify-content: center;
+    align-items: center;
+}
+.TRGOpenOrdersMetadata {
+    padding: .25rem;
+    display: grid;
+    gap: .5rem;
+    grid-template-columns: auto auto;
+    justify-content: center;
+    align-items: center;    
+}
+.TRGOpenOrders {
+    display: grid;
+    gap: .5rem;
+    justify-content: center;
+    align-items: center;
+}
+.TRGOpenOrder {
+    padding: .25rem;
+    display: grid;
+    gap: .5rem;
+    grid-template-columns: auto auto;
+    justify-content: center;
+    align-items: center;
+    border-radius: .25rem;
+    background: var(--b-bg-1);
+    border: solid 1px var(--b-bg-1);    
+}
